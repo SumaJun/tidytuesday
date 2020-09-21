@@ -1,2 +1,2 @@
 # tidytuesday
-some graphs for r learning community
+Some graphs for r learning community.
